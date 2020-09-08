@@ -1,3 +1,5 @@
+![galvanize_logo](images/logo.png)
+
 # RFT4-Capstones
 
 Directory of Final Capstones for Galvanize Data Science, Remote Full Time, Cohort 4
@@ -12,8 +14,7 @@ proposal link (Ali S.): https://github.com/alirezasdg1/proposal
 
 proposal link (Rajat Ghosh): https://github.com/rghosh8/ideas_cap3
 
-
-proposal link (Rachel Bushinsky): 
+proposal link (Rachel Bushinsky):
 https://github.com/Iguanacolossus/Capstone3-TBA
 
 proposal link [MollyHardy](https://github.com/mollyincali/tempname_capstone3)
