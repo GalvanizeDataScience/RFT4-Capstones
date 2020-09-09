@@ -22,3 +22,5 @@ proposal link [MollyHardy](https://github.com/mollyincali/tempname_capstone3)
 proposal link (Gina Santana): https://github.com/gina-santana/Capstone3_proposals 
 
 proposal link (Brent Thayer): https://github.com/brentthayer1/capstone3
+
+proposal link (Gavin Ray): https://github.com/gavinraym/traffic
