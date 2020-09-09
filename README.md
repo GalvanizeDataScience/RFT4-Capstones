@@ -36,3 +36,8 @@ proposal line (CJ Holcomb): https://github.com/cjholcomb/capstone-3-proposal
 proposal link (Jake Horn): https://github.com/jakehorn25/cap3-prop
 
 proposal link (Satchel Sabin): https://github.com/satchelsabin/Capstone-3
+
+proposal link (Sean Wieser): https://github.com/seanwieser/Auto-Yahtzee/
+
+proposal link (Chelsea Zaloumis): https://github.com/czaloumi/Capstone_3/blob/master/README.md
+>>>>>>> 85474663733c49571d94c831573d38c4390b6674
