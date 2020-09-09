@@ -34,3 +34,5 @@ proposal link (Johann D'Souza): https://github.com/dsouzaj98/Capstone3
 proposal line (CJ Holcomb): https://github.com/cjholcomb/capstone-3-proposal
 
 proposal link (Jake Horn): https://github.com/jakehorn25/cap3-prop
+
+proposal link (Satchel Sabin): https://github.com/satchelsabin/Capstone-3
