@@ -41,3 +41,4 @@ proposal link (Sean Wieser): https://github.com/seanwieser/Auto-Yahtzee/
 
 proposal link (Chelsea Zaloumis): https://github.com/czaloumi/Capstone_3/blob/master/README.md
 >>>>>>> 85474663733c49571d94c831573d38c4390b6674
+proposal link (Megan LaGrave): https://github.com/MegansColorado/Capstone_3
