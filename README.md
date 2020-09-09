@@ -30,3 +30,5 @@ proposal link (Paul Tanger): https://github.com/paultanger/Project-Ideas/blob/ma
 proposal link (Heather Berginc): https://github.com/hberginc/to_image_process_or_to_timeseries
 
 proposal link (Johann D'Souza): https://github.com/dsouzaj98/Capstone3
+
+proposal line (CJ Holcomb): https://github.com/cjholcomb/capstone-3-proposal
