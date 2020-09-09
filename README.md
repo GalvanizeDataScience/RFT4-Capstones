@@ -24,3 +24,5 @@ proposal link (Gina Santana): https://github.com/gina-santana/Capstone3_proposal
 proposal link (Brent Thayer): https://github.com/brentthayer1/capstone3
 
 proposal link (Gavin Ray): https://github.com/gavinraym/traffic
+
+proposal link (Paul Tanger): https://github.com/paultanger/Project-Ideas/blob/master/cap3.md
