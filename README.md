@@ -28,3 +28,5 @@ proposal link (Gavin Ray): https://github.com/gavinraym/traffic
 proposal link (Paul Tanger): https://github.com/paultanger/Project-Ideas/blob/master/cap3.md
 
 proposal link (Heather Berginc): https://github.com/hberginc/to_image_process_or_to_timeseries
+
+proposal link (Johann D'Souza): https://github.com/dsouzaj98/Capstone3
