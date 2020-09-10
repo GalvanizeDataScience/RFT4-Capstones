@@ -44,3 +44,5 @@ proposal link (Chelsea Zaloumis): https://github.com/czaloumi/Capstone_3/blob/ma
 proposal link (Megan LaGrave): https://github.com/MegansColorado/Capstone_3
 
 proposal link (Charles Nguyen): https://github.com/cvqnguyen/capstone-3/blob/master/README.md
+
+proposal links (Simon Dawkins): [bomba-detection](https://github.com/wkosmos/bomba-detection/blob/master/docs/proposal.md), [receipt-ocr](), [recipe-rating-predictor]()
