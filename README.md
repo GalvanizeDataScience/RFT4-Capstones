@@ -45,4 +45,4 @@ proposal link (Megan LaGrave): https://github.com/MegansColorado/Capstone_3
 
 proposal link (Charles Nguyen): https://github.com/cvqnguyen/capstone-3/blob/master/README.md
 
-proposal links (Simon Dawkins): [bomba-detection](https://github.com/wkosmos/bomba-detection/blob/master/docs/proposal.md), [receipt-ocr](), [recipe-rating-predictor]()
+proposal links (Simon Dawkins): [bomba-detection](https://github.com/wkosmos/bomba-detection/blob/master/docs/proposal.md), [receipt-ocr](https://github.com/wkosmos/receipt-ocr/blob/master/docs/proposal.md), [recipe-rating-predictor]()
