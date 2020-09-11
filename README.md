@@ -17,7 +17,7 @@ proposal link (Rajat Ghosh): https://github.com/rghosh8/ideas_cap3
 proposal link (Rachel Bushinsky):
 https://github.com/Iguanacolossus/Capstone3-TBA
 
-proposal link [MollyHardy](https://github.com/mollyincali/tempname_capstone3)
+proposal link [MollyHardy - FINAL](https://github.com/mollyincali/tempname_capstone3)
 
 proposal link (Gina Santana): https://github.com/gina-santana/Capstone3_proposals 
 
