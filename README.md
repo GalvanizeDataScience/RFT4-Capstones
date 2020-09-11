@@ -15,7 +15,7 @@ proposal link (Ali S.): https://github.com/alirezasdg1/proposal
 proposal link (Rajat Ghosh): https://github.com/rghosh8/ideas_cap3
 
 proposal link (Rachel Bushinsky):
-https://github.com/Iguanacolossus/Capstone3-TBA
+https://github.com/Iguanacolossus/identifying-seizures
 
 proposal link [MollyHardy - FINAL](https://github.com/mollyincali/tempname_capstone3)
 
