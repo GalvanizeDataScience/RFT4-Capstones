@@ -10,7 +10,7 @@ Five Stars: Yelp Ratings by Hand Gesture Recognition Utilizing Convolutional Neu
 
 - [Proposal Link](https://github.com/AstroPigLatin/five_stars/blob/master/proposal.md)
 
-proposal link (Ali S.): https://github.com/alirezasdg1/proposal
+proposal link (Ali S.-Final version): https://github.com/alirezasdg1/proposal
 
 proposal link (Rajat Ghosh): https://github.com/rghosh8/ideas_cap3
 
